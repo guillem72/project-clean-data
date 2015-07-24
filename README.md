@@ -12,6 +12,7 @@ This repository contains the following files:
 2.	codebook.md
 3.  data.csv
 4.  data2.csv
+5.  README.md (this file)
 
 
 ### interaccions.R
